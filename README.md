@@ -12,10 +12,10 @@ Memória com 16 posições.
 Contador de programa (PC).
 Unidade Lógica e Aritmética (ULA).
 Ciclo de execução Fetch, Decode e Execute.
-Fetch: busca a instrução indicada pelo PC na memória.
-Decode: identifica a instrução e seus operandos.
-Execute: executa a operação e atualiza os registradores, a memória ou o PC conforme a instrução.
-
+ FETCH - obter da memória a instrução indicada pelo PC.
+ DECODE - identificar qual instrução foi obtida e quais são seus operandos.
+ EXECUTE - realizar a operação e atualizar registradores, memória ou PC.
+   
 2.Instruções implementadas
 LOAD: carrega um valor em um registrador.
 STORE: armazena um valor na memória.
